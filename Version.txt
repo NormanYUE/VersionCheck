@@ -1,1 +1,0 @@
-{"ForceUpdateGame":false,"LatestGameVersion":"0.0.2","InternalGameVersion":0,"InternalResourceVersion":59,"UpdatePrefixUri":"ftp://47.106.36.66:21/www/wwwroot/NormanYUE/Android","VersionListLength":1044,"VersionListHashCode":2037673360,"VersionListCompressedLength":582,"VersionListCompressedHashCode":-337039563}
